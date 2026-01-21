@@ -1,0 +1,34 @@
+# =========================
+# Android / Gradle
+# =========================
+.gradle/
+**/build/
+
+# Local SDK configuration (DO NOT COMMIT)
+local.properties
+/local.properties
+
+# =========================
+# Android Studio / IDE
+# =========================
+.idea/
+*.iml
+.captures/
+.externalNativeBuild/
+.cxx/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Kotlin / Java
+# =========================
+out/
